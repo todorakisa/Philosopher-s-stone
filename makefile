@@ -1,0 +1,2 @@
+run:
+	g++ The_Philosopher_stone.cpp formula.cpp baseElement.cpp book.cpp factory.cpp water.cpp fire.cpp earth.cpp air.cpp stone.cpp metal.cpp energy.cpp gold.cpp spirit.cpp philosopherstone.cpp alchemist.cpp -o The_Philosopher_stone
